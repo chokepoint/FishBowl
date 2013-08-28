@@ -1,0 +1,7 @@
+Fish Bowl Configuration Files
+
+-- Base OpenVPN Configs
+-- Base Asterisk Configs
+-- OpenSSL Scripts for each included
+-- All Certificate files are empty files, they're just there to show you generally what you should have.
+
